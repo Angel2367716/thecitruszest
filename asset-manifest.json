@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thecitruszest/static/css/main.d1b05096.chunk.css",
+    "main.js": "/thecitruszest/static/js/main.fa2dc4dd.chunk.js",
+    "main.js.map": "/thecitruszest/static/js/main.fa2dc4dd.chunk.js.map",
+    "runtime-main.js": "/thecitruszest/static/js/runtime-main.fbdfe92d.js",
+    "runtime-main.js.map": "/thecitruszest/static/js/runtime-main.fbdfe92d.js.map",
+    "static/js/2.612c1a89.chunk.js": "/thecitruszest/static/js/2.612c1a89.chunk.js",
+    "static/js/2.612c1a89.chunk.js.map": "/thecitruszest/static/js/2.612c1a89.chunk.js.map",
+    "index.html": "/thecitruszest/index.html",
+    "precache-manifest.027662e0a954165530c285d5e12bfa53.js": "/thecitruszest/precache-manifest.027662e0a954165530c285d5e12bfa53.js",
+    "service-worker.js": "/thecitruszest/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/thecitruszest/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.612c1a89.chunk.js.LICENSE": "/thecitruszest/static/js/2.612c1a89.chunk.js.LICENSE",
+    "static/media/logo.svg": "/thecitruszest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbdfe92d.js",
+    "static/js/2.612c1a89.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fa2dc4dd.chunk.js"
+  ]
+}
